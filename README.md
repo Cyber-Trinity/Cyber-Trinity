@@ -1,6 +1,30 @@
 <h1 align="center">Hi 👋, I'm Yaovi Joel DJATASSIBA</h1>
 <h3 align="center">Passionate about innovation, I want to use technology to create a smarter and more secure digital world.</h3>
 
+<p align="center">
+  <a href="mailto:jdjatassiba@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Email" />
+  </a>
+  <a href="[https://yourwebsite.com/resume.pdf](https://drive.google.com/file/d/1Z_e_JG4Tr8JK0En44MdZl2ms88NzBlJA/view?usp=sharing)" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35" alt="Resume" />
+  </a>
+  <a href="https://www.linkedin.com/in/joeldjatassiba/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://cyber-trinity.github.io/joeldjatassiba/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=read-the-docs&label=&color=FF5722&logoColor=white&style=for-the-badge" height="35" alt="Portfolio" />
+  </a>
+  <a href="https://www.kaggle.com/cybertrinity" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&style=for-the-badge" height="35" alt="Kaggle" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Yaovi-Joel-Djatassiba" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ResearchGate&logo=researchgate&label=&color=00CCBB&logoColor=white&style=for-the-badge" height="35" alt="ResearchGate" />
+  </a>
+  <a href="https://orcid.org/your-orcid-id](https://orcid.org/0009-0007-8606-3780" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ORCID&logo=orcid&label=&color=A6CE39&logoColor=white&style=for-the-badge" height="35" alt="ORCID" />
+  </a>
+</p>
+
 ---
 
 ## 🌍 About Me
@@ -9,65 +33,6 @@ Hi, I’m **Joel**, an aspiring Computer Engineer specializing in IoT, Artificia
 With hands-on experience in data analysis, IoT projects, and AI-powered solutions, I thrive at the intersection of innovation and practical problem-solving. I continuously seek opportunities to learn, collaborate, and develop cutting-edge technologies that address real-world challenges.
 
 > “Technology is not just about innovation — it’s about **protection**, **insight**, and **impact**.”
-
----
-
-## 🔗 Connect with Me
-- 📧 Email:     jdjatassiba@gmail.com
-- 📄 Resume: [resume](https://drive.google.com/file/d/1Z_e_JG4Tr8JK0En44MdZl2ms88NzBlJA/view?usp=sharing)
-- 🌐 Portfolio:   https://cyber-trinity.github.io/joeldjatassiba/
-- 💼 LinkedIn:  https://www.linkedin.com/in/joeldjatassiba/
-- 🧠 GitHub:    https://github.com/Cyber-Trinity
-- 📊 Kaggle :   https://www.kaggle.com/cybertrinity
-- Research Gate : https://www.researchgate.net/profile/Yaovi-Joel-Djatassiba?ev=hdr_xprf
-  
----
-
-<p align="center">
-  
-  [![Email: jdjatassiba@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jdjatassiba@gmail.com) 
-  
-  [![Resume](https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1Z_e_JG4Tr8JK0En44MdZl2ms88NzBlJA/view?usp=sharing) 
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) 
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white)]( https://cyber-trinity.github.io/joeldjatassiba/) 
-  
-  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/cybertrinity)
-  
-  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Yaovi-Joel-Djatassiba?ev=hdr_xprf)
-  
-  [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)]([https://orcid.org/your-orcid-id](https://orcid.org/0009-0007-8606-3780))
-  
-  
-</p>
-
----
-
-<p align="center">
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Email" />
-  </a>
-  <a href="https://yourwebsite.com/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35" alt="Resume" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=read-the-docs&label=&color=FF5722&logoColor=white&style=for-the-badge" height="35" alt="Portfolio" />
-  </a>
-  <a href="https://www.kaggle.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&style=for-the-badge" height="35" alt="Kaggle" />
-  </a>
-  <a href="https://www.researchgate.net/profile/YourName" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=ResearchGate&logo=researchgate&label=&color=00CCBB&logoColor=white&style=for-the-badge" height="35" alt="ResearchGate" />
-  </a>
-  <a href="https://orcid.org/your-orcid-id" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=ORCID&logo=orcid&label=&color=A6CE39&logoColor=white&style=for-the-badge" height="35" alt="ORCID" />
-  </a>
-</p>
-
 
 ---
 
