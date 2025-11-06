@@ -1,23 +1,57 @@
-<h1 align="center">Hi 👋, I'm Joël</h1>
+<h1 align="center">Hi 👋, I'm Yaovi Joel DJATASSIBA</h1>
 <h3 align="center">Passionate about innovation, I want to use technology to create a smarter and more secure digital world.</h3>
 
-- 🌱 I’m currently learning **Django, Javascript**
+---
 
-- 👨‍💻 All of my projects are available at [https://cyber-trinity.github.io/joeldjatassiba/](https://cyber-trinity.github.io/joeldjatassiba/)
+## 🌍 About Me
+Hi, I’m **Joel**, an aspiring IT specialist passionate about integrating **IoT**, **Data Analytics**, and **Cybersecurity** to build smart and secure systems that promote sustainability and innovation.
 
-- 💬 Ask me about **IoT, Python, Cybersecurity, Network**
+> “Technology is not just about innovation — it’s about **protection**, **insight**, and **impact**.”
 
-- 📫 How to reach me **jdjatassiba@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z_e_JG4Tr8JK0En44MdZl2ms88NzBlJA/view?usp=sharing](https://drive.google.com/file/d/1Z_e_JG4Tr8JK0En44MdZl2ms88NzBlJA/view?usp=sharing)
+## 🔗 Connect with Me
+- 📧 Email:     jdjatassiba@gmail.com
+- 📄 Resume: [resume](https://drive.google.com/file/d/1Z_e_JG4Tr8JK0En44MdZl2ms88NzBlJA/view?usp=sharing)
+- 🌐 Portfolio:   https://cyber-trinity.github.io/joeldjatassiba/
+- 💼 LinkedIn:  https://www.linkedin.com/in/joeldjatassiba/
+- 🧠 GitHub:    https://github.com/Cyber-Trinity
+- 📊 Kaggle :   https://www.kaggle.com/cybertrinity
+- Research Gate : https://www.researchgate.net/profile/Yaovi-Joel-Djatassiba?ev=hdr_xprf
 
-- ⚡ Fun fact **I cannot choose among my three passions**
+[![Email: jdjatassiba@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jdjatassiba@gmail.com)  
+[![Resume](https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1Z_e_JG4Tr8JK0En44MdZl2ms88NzBlJA/view?usp=sharing)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white)]( https://cyber-trinity.github.io/joeldjatassiba/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/cybertrinity)  
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Yaovi-Joel-Djatassiba?ev=hdr_xprf)  
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)]([https://orcid.org/your-orcid-id](https://orcid.org/0009-0007-8606-3780))
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joeldjatassiba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joeldjatassiba" height="30" width="40" /></a>
-<a href="https://kaggle.com/cybertrinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="cybertrinity" height="30" width="40" /></a>
-</p>
+
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+
+---
+
+## 🧩 Tech Stack
+**Languages & Tools:**  
+`Python` · `C` · `C++` · `Java` · `Arduino` · `SQL`· `HTML/CSS` · `Git` · `Shell`  
+
+**Data Tools:**  
+`Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Jupyter` · `Power BI` · `Excel`
+
+**Cyber Tools:**  
+`Nmap` · `Burp Suite` · `Metasploit`· `Wireshark` · `Cisco Packet Tracer`· `Kali Linux`
+
+**Embedded Systems Tools:** 
+`Arduino` · `ESP32 / ESP8266` · `MQTT` · `Actuators`  · `Sensors` · · `Arduino IDE`· `ThingSpeak`
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
