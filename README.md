@@ -5,7 +5,7 @@
   <a href="mailto:jdjatassiba@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Email" />
   </a>
-  <a href="[https://yourwebsite.com/resume.pdf](https://drive.google.com/file/d/1Z_e_JG4Tr8JK0En44MdZl2ms88NzBlJA/view?usp=sharing)" target="_blank">
+  <a href="https://drive.google.com/file/d/1Z_e_JG4Tr8JK0En44MdZl2ms88NzBlJA/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35" alt="Resume" />
   </a>
   <a href="https://www.linkedin.com/in/joeldjatassiba/" target="_blank">
@@ -20,7 +20,7 @@
   <a href="https://www.researchgate.net/profile/Yaovi-Joel-Djatassiba" target="_blank">
     <img src="https://img.shields.io/static/v1?message=ResearchGate&logo=researchgate&label=&color=00CCBB&logoColor=white&style=for-the-badge" height="35" alt="ResearchGate" />
   </a>
-  <a href="https://orcid.org/your-orcid-id](https://orcid.org/0009-0007-8606-3780" target="_blank">
+  <a href="https://orcid.org/0009-0007-8606-3780" target="_blank">
     <img src="https://img.shields.io/static/v1?message=ORCID&logo=orcid&label=&color=A6CE39&logoColor=white&style=for-the-badge" height="35" alt="ORCID" />
   </a>
 </p>
