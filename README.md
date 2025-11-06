@@ -18,6 +18,7 @@ Hi, I’m **Joel**, an aspiring IT specialist passionate about integrating **IoT
 - 🧠 GitHub:    https://github.com/Cyber-Trinity
 - 📊 Kaggle :   https://www.kaggle.com/cybertrinity
 - Research Gate : https://www.researchgate.net/profile/Yaovi-Joel-Djatassiba?ev=hdr_xprf
+- 
 <p align="center">
   
   [![Email: jdjatassiba@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jdjatassiba@gmail.com)  
