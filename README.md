@@ -1,88 +1,29 @@
-# 💻 Yaovi Joel DJATASSIBA
+<h1 align="center">Hi 👋, I'm Joël</h1>
+<h3 align="center">Passionate about innovation, I want to use technology to create a smarter and more secure digital world.</h3>
 
-### 🚀 Overview
-Welcome to my unified tech portfolio that brings together my passion for **Cybersecurity**, **Data Analytics**, and the **Internet of Things (IoT)**.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyber-trinity" alt="cyber-trinity" /></a> </p>
 
-My portfolio highlights how I combine these three domains to create **secure**, **data-driven**, and **intelligent systems** that address global challenges.
+- 🌱 I’m currently learning **Django, Javascript**
 
----
+- 👨‍💻 All of my projects are available at [https://cyber-trinity.github.io/joeldjatassiba/](https://cyber-trinity.github.io/joeldjatassiba/)
 
-## 📊 Data Analytics
-**Focus Areas:**
-- Data Cleaning and Visualization  
-- Python for Data Analysis and Machine Learning  
-- Statistical and Predictive Modeling  
+- 💬 Ask me about **IoT, Python, Cybersecurity, Network**
 
-**Highlighted Projects:**
-- 🎬 **Netflix Data Analysis** – Explored viewing trends and recommendation patterns.  
-- 🏙️ **Crime Analysis in Los Angeles** – Identified hotspots and correlations using geospatial analytics.  
+- 📫 How to reach me **jdjatassiba@gmail.com**
 
----
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Z_e_JG4Tr8JK0En44MdZl2ms88NzBlJA/view?usp=sharing](https://drive.google.com/file/d/1Z_e_JG4Tr8JK0En44MdZl2ms88NzBlJA/view?usp=sharing)
 
-## 🛡️ Cybersecurity
-**Focus Areas:**
-- Network Security & Penetration Testing  
-- Vulnerability Assessment & Threat Detection  
-- Secure IoT System Design  
-- Capture the Flag (CTF) Participation  
+- ⚡ Fun fact **I cannot choose among my three passions**
 
-**Highlighted Projects:**
-- 🔒 **IoT Security Monitoring System** – Detects unauthorized access to connected devices using packet inspection.  
-- 🕵️ **Great AppSec Hackathon 2024** – Qualified in the CTF screening round.   
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/joeldjatassiba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joeldjatassiba" height="30" width="40" /></a>
+<a href="https://kaggle.com/cybertrinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="cybertrinity" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-## 🌐 Internet of Things (IoT)
-**Focus Areas:**
-- Smart Environment & Automation Systems  
-- Real-time Data Monitoring  
-- Edge Computing & Communication Protocols  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyber-trinity&show_icons=true&locale=en&layout=compact" alt="cyber-trinity" /></p>
 
-**Highlighted Projects:**
-- 💧 **Smart Water Monitoring System** – Tracks water quality and usage in real time.  
-- 🤖 **Automatic Robot Car** – Designed an obstacle-avoiding vehicle using ultrasonic sensors.  
-- 🔥 **Gas Detection System** – Built an IoT-based safety alert mechanism.  
-
----
-
-## 🧩 Tech Stack
-**Languages & Tools:**  
-`Python` · `C` · `C++` · `Java` · `Arduino` · `SQL`· `HTML/CSS` · `Git` · `Shell`  
-
-**Data Tools:**  
-`Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Jupyter` · `Power BI` · `Excel`
-
-**Cyber Tools:**  
-`Nmap` · `Burp Suite` · `Metasploit`· `Wireshark` · `Cisco Packet Tracer`· `Kali Linux`
-
-**Embedded Systems Tools:** 
-`Arduino` · `ESP32 / ESP8266` · `MQTT` · `Actuators`  · `Sensors` · · `Arduino IDE`· `ThingSpeak`
-
----
-
-## 🎓 Certifications & Achievements
-- 🧠 **CCNA: Introduction to Networks** – Cisco (2021)  
-- 📊 **Data Analyst with Python** – DataCamp (2024)  
-- ☁️ **AWSome Day Online Conference** – AWS (2024)  
-- 🏆 **Gold Level – Accenture iAspire Program**  
-- 🥇 **1st Prize – Techno-Cultural Fashion Show**  
-- 💡 **CTF Qualifier – Great AppSec Hackathon 2024**  
-
----
-
-## 🌍 About Me
-Hi, I’m **Joel**, an aspiring IT specialist passionate about integrating **IoT**, **Data Analytics**, and **Cybersecurity** to build smart and secure systems that promote sustainability and innovation.
-
-> “Technology is not just about innovation — it’s about **protection**, **insight**, and **impact**.”
-
----
-
-## 🔗 Connect with Me
-- 📧 Email:     jdjatassiba@gmail.com
-- 🌐 Website:   https://cyber-trinity.github.io/joeldjatassiba/
-- 💼 LinkedIn:  https://www.linkedin.com/in/joeldjatassiba/
-- 🧠 GitHub:    https://github.com/Cyber-Trinity
-
----
-
-**Copyright © 2025 Cyber-Trinity**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyber-trinity&show_icons=true&locale=en" alt="cyber-trinity" /></p>
