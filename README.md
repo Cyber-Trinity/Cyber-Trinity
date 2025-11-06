@@ -4,7 +4,9 @@
 ---
 
 ## 🌍 About Me
-Hi, I’m **Joel**, an aspiring IT specialist passionate about integrating **IoT**, **Data Analytics**, and **Cybersecurity** to build smart and secure systems that promote sustainability and innovation.
+Hi, I’m **Joel**, an aspiring Computer Engineer specializing in IoT, Artificial Intelligence, and Cybersecurity. I am driven to create smart, secure, and sustainable technologies that make a positive impact on communities and industries.
+
+With hands-on experience in data analysis, IoT projects, and AI-powered solutions, I thrive at the intersection of innovation and practical problem-solving. I continuously seek opportunities to learn, collaborate, and develop cutting-edge technologies that address real-world challenges.
 
 > “Technology is not just about innovation — it’s about **protection**, **insight**, and **impact**.”
 
@@ -33,7 +35,21 @@ Hi, I’m **Joel**, an aspiring IT specialist passionate about integrating **IoT
   
 </p>
 
+---
 
+## 💼 Projects
+
+- **📊 Data Analysis**  
+  [View Repository](https://github.com/yourusername/data-analysis)  
+  Cleaned, processed, and visualized datasets to extract actionable insights using Python and Pandas.
+
+- **🤖 IoT Projects**  
+  [View Repository](https://github.com/yourusername/iot-projects)  
+  Developed smart devices and automation systems integrating sensors, Raspberry Pi, and microcontrollers.
+
+- **🔒 Cybersecurity**  
+  [View Repository](https://github.com/yourusername/cybersecurity)  
+  Implemented network security solutions, threat analysis, and penetration testing projects.
 
 ---
 
