@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joël</h1>
 <h3 align="center">Passionate about innovation, I want to use technology to create a smarter and more secure digital world.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyber-trinity" alt="cyber-trinity" /></a> </p>
-
 - 🌱 I’m currently learning **Django, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://cyber-trinity.github.io/joeldjatassiba/](https://cyber-trinity.github.io/joeldjatassiba/)
