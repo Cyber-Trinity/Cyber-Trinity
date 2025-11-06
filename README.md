@@ -25,13 +25,20 @@ With hands-on experience in data analysis, IoT projects, and AI-powered solution
 
 <p align="center">
   
-  [![Email: jdjatassiba@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jdjatassiba@gmail.com)  
-  [![Resume](https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1Z_e_JG4Tr8JK0En44MdZl2ms88NzBlJA/view?usp=sharing)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white)]( https://cyber-trinity.github.io/joeldjatassiba/)  
-  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/cybertrinity)  
-  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Yaovi-Joel-Djatassiba?ev=hdr_xprf)  
+  [![Email: jdjatassiba@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jdjatassiba@gmail.com) 
+  
+  [![Resume](https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1Z_e_JG4Tr8JK0En44MdZl2ms88NzBlJA/view?usp=sharing) 
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) 
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white)]( https://cyber-trinity.github.io/joeldjatassiba/) 
+  
+  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/cybertrinity)
+  
+  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Yaovi-Joel-Djatassiba?ev=hdr_xprf)
+  
   [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)]([https://orcid.org/your-orcid-id](https://orcid.org/0009-0007-8606-3780))
+  
   
 </p>
 
@@ -40,16 +47,16 @@ With hands-on experience in data analysis, IoT projects, and AI-powered solution
 ## 💼 Projects
 
 - **📊 Data Analysis**  
-  [View Repository](https://github.com/yourusername/data-analysis)  
+  [View Repository](https://github.com/Cyber-Trinity/Data-Analysis)  
   Cleaned, processed, and visualized datasets to extract actionable insights using Python and Pandas.
 
-- **🤖 IoT Projects**  
-  [View Repository](https://github.com/yourusername/iot-projects)  
-  Developed smart devices and automation systems integrating sensors, Raspberry Pi, and microcontrollers.
-
 - **🔒 Cybersecurity**  
-  [View Repository](https://github.com/yourusername/cybersecurity)  
+  [View Repository](https://github.com/Cyber-Trinity/Cybersecurity)  
   Implemented network security solutions, threat analysis, and penetration testing projects.
+  
+- **🤖 IoT Projects**  
+  [View Repository](https://github.com/Cyber-Trinity/Internet-of-Things)  
+  Developed smart devices and automation systems integrating sensors, Raspberry Pi, and microcontrollers.
 
 ---
 
