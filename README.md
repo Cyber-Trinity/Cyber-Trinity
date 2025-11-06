@@ -44,6 +44,33 @@ With hands-on experience in data analysis, IoT projects, and AI-powered solution
 
 ---
 
+<p align="center">
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Email" />
+  </a>
+  <a href="https://yourwebsite.com/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35" alt="Resume" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=read-the-docs&label=&color=FF5722&logoColor=white&style=for-the-badge" height="35" alt="Portfolio" />
+  </a>
+  <a href="https://www.kaggle.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&style=for-the-badge" height="35" alt="Kaggle" />
+  </a>
+  <a href="https://www.researchgate.net/profile/YourName" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ResearchGate&logo=researchgate&label=&color=00CCBB&logoColor=white&style=for-the-badge" height="35" alt="ResearchGate" />
+  </a>
+  <a href="https://orcid.org/your-orcid-id" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ORCID&logo=orcid&label=&color=A6CE39&logoColor=white&style=for-the-badge" height="35" alt="ORCID" />
+  </a>
+</p>
+
+
+---
+
 ## 💼 Projects
 
 - **📊 Data Analysis**  
