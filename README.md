@@ -1,26 +1,6 @@
-
-###
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20%F0%9F%91%8B,%20I'm%20Yaovi%20Joel%20DJATASSIBA&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&width=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-  <h1 align="center">Hi 👋, I'm Yaovi Joel DJATASSIBA</h1>
-  <h3 align="center">Passionate about innovation, I want to use technology to create a smarter and more secure digital world.</h3>
-</div>
-
+ </div>
+<h1 align="center">Hi 👋, I'm Yaovi Joel DJATASSIBA</h1>
+<h3 align="center">Passionate about innovation, I want to use technology to create a smarter and more secure digital world.</h3>
 <p align="center">
   <a href="mailto:jdjatassiba@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Email" />
