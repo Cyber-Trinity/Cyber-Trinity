@@ -75,6 +75,5 @@ Hi, I’m **Joel**, an aspiring Computer Engineer specializing in IoT, Artificia
 </div>
 
 ---
-
-**Copyright © 2025 Cyber-Trinity**
+<h4 align="center">Copyright © 2025 Cyber-Trinity</h4>
 
