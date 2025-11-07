@@ -32,7 +32,7 @@ Hi, I’m **Joel**, an aspiring Computer Engineer specializing in IoT, Artificia
 
 With hands-on experience in data analysis, IoT projects, and AI-powered solutions, I thrive at the intersection of innovation and practical problem-solving. I continuously seek opportunities to learn, collaborate, and develop cutting-edge technologies that address real-world challenges.
 
-> “Technology is not just about innovation — it’s about **protection**, **insight**, and **impact**.”
+> “Technology is not just about innovation. It’s about **protection**, **insight**, and **impact**.”
 
 ---
 
