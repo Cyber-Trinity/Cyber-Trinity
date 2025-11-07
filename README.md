@@ -10,6 +10,7 @@
   </a>
   <a href="https://www.linkedin.com/in/joeldjatassiba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://cyber-trinity.github.io/joeldjatassiba/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=read-the-docs&label=&color=FF5722&logoColor=white&style=for-the-badge" height="35" alt="Portfolio" />
