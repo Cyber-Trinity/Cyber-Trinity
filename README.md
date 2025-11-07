@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Email" />
   </a>
   <a href="https://drive.google.com/file/d/1Ycf2q9o_zy_aqHYfJfiOD6QBQBJmP3GT/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35" alt="Resume" />
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35" alt="Resume/CV" />
   </a>
   <a href="https://www.linkedin.com/in/joeldjatassiba/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
