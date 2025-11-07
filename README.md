@@ -29,7 +29,7 @@
 
 ## 🌍 About Me
 Hi, I’m **Joel**, an aspiring Computer Engineer specializing in IoT, Artificial Intelligence, and Cybersecurity. I am driven to create smart, secure, and sustainable technologies that make a positive impact on communities and industries. I enjoy working on projects that combine technology, creativity, and security to empower people and organizations.
-For me, > “Technology is not just about innovation. It’s about **protection**, **insight**, and **impact**.”
+> “Technology is not just about innovation. It’s about **protection**, **insight**, and **impact**.”
 
 ---
 
