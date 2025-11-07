@@ -43,7 +43,7 @@ Hi, I’m **Joel**, an aspiring Computer Engineer specializing in IoT, Artificia
   [View Repository](https://github.com/Cyber-Trinity/Cybersecurity)  
   This repository is a collection of my cybersecurity projects, showcasing my expertise in network security, penetration testing, threat analysis, and the development of secure systems.
   
-- **🤖 IoT Projects**  
+- **🤖 Internet of Things**  
   [View Repository](https://github.com/Cyber-Trinity/Internet-of-Things)  
   This repository is a collection of my IoT-based projects, demonstrating my expertise in hardware integration, sensor data acquisition, real-time monitoring, and smart system development.
 
