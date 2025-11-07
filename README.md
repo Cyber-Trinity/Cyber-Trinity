@@ -63,7 +63,6 @@ With hands-on experience in data analysis, IoT projects, and AI-powered solution
 `Nmap` · `Burp Suite` · `Metasploit` · `Wireshark` · `Cisco Packet Tracer` · `Network` · `Virtualization` · `Bash scripting` · `Kali Linux`
 
 **Cyber Tools:**  
-`Nmap` · `Burp Suite` · `Metasploit` · `Wireshark` · `Cisco Packet Tracer` · `Network` · `Virtualization` · `Bash scripting` · `Kali Linux`
 `Arduino` · `ESP32 / ESP8266` · `MQTT` · `Actuators`  · `Sensors` · `Arduino IDE` · `ThingSpeak` · `Supabase`
 
 <br>
