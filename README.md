@@ -48,7 +48,7 @@ With hands-on experience in data analysis, IoT projects, and AI-powered solution
   
 - **🤖 IoT Projects**  
   [View Repository](https://github.com/Cyber-Trinity/Internet-of-Things)  
-  Developed smart devices and automation systems integrating sensors, Raspberry Pi, and microcontrollers.
+  Developed smart devices and automation systems integrating sensors, Actuators, and microcontrollers.
 
 ---
 
